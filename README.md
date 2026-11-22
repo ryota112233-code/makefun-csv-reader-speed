@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/35234680/README.md)
 # makefun-csv-reader-speed
 
 [![Built for make.fun bounties](https://img.shields.io/badge/built%20for-make.fun%20bounties-7c5cff)](https://make.fun/bounties?ref=fepd64fc)
