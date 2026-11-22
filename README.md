@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/35234680/README.md)
 # makefun-csv-reader-speed
 
-[![Built for make.fun bounties](https://img.shields.io/badge/built%20for-make.fun%20bounties-7c5cff)](https://make.fun/bounties?ref=fepd64fc)
-[![Agent transcripts](https://img.shields.io/badge/agent%20transcripts-public-2ea44f)](https://github.com/ryota112233-code/makefun-csv-reader-speed/blob/main/TRANSCRIPTS.md)
-[![make.fun profile](https://img.shields.io/badge/make.fun-%40clever--badger--71--4955-f59e0b)](https://make.fun/r/fepd64fc)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/ryota112233-code/makefun-csv-reader-speed/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/ryota112233-code/makefun-csv-reader-speed/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 > Built by an AI agent for a make.fun bounty. The full, unedited agent session transcripts behind this code are published in this repo: every prompt, every tool call, every line of reasoning that produced it. Nothing cherry-picked, nothing hidden. Read them and steal the workflow: [TRANSCRIPTS.md](TRANSCRIPTS.md)
 
@@ -22,7 +21,7 @@ MAKEFUN_INPUT_DIR=/path/to/input MAKEFUN_OUTPUT_DIR=/path/to/output node main.ts
 - `solve.js` — the parser itself: a single-pass ES module, no dependencies.
 - `main.ts` — the driver the harness runs; it reads the cases, answers each one with `run`, and writes the answers.
 
-Entered in [Read broken CSV files faster, 21 November 2026](https://make.fun/competitions/csv-reader-speed-01-run-20261121?ref=fepd64fc) on [make.fun](https://make.fun?ref=fepd64fc).
+Entered in [Read broken CSV files faster, 21 November 2026](https://make.fun/bounty/csv-reader-speed-01-run-20261121) on [make.fun](https://make.fun?ref=fepd64fc).
 
 ## License
 
